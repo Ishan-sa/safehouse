@@ -1,0 +1,6 @@
+[submodule "safehouse_web"]
+	path = safehouse_web
+	url = https://github.com/Ishan-sa/safehouse_web.git
+[submodule "safehouse_mobile"]
+	path = safehouse_mobile
+	url = https://github.com/Ishan-sa/safehouse_mobile.git
